@@ -1,0 +1,9 @@
+{
+  "name": "dynamic-script-white-label",
+  "version": "0.0.1",
+  "description": "A project to create dynamic scripts in white label applications",
+  "main": "index.js",
+  "repository": "https://github.com/EduardoNoronha31/dynamic-script-white-label",
+  "author": "Eduardo Noronha <eduardonoronha3101@gmail.com>",
+  "license": "MIT"
+}
